@@ -7,7 +7,7 @@ Data Science / Developers / Creator
 I am a data scientist and developer with a passion for understanding and crafting stories from the digital world. With mathematics as my faithful tool, I explore the digital galaxy, building intelligent models using machine learning and artificial intelligence to predict and provide deep insights. I am not just a logical developer but also a creative one who combines intuitive design with computational power. I believe that behind every set of data lies an intriguing story. With code as my pen and datasets as my canvas, I am excited to create narratives that enhance the technological experience.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyGithub](http://github.com/rikyraharjo)
+* 🖥️  See my portfolio at [MyWebPortfolio](http://rikyraharjo.xyz)
 * ✉️  You can contact me at [rikyraharjo112@gmail.com](mailto:rikyraharjo112@gmail.com)
 * 🚀  I'm currently working on [EyeU-"Early detection of eye health in the elderly"](http://github.com/rikyraharjo/EyeU-Mobile)
 * 🧠  I'm learning Pandas, Numpy, Scikit-Learn, Matplotlib & Seaborn, Tensorflow, NLTK, Keras and other
