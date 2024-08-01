@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riky Raharjo
 ====================================================================================================================================
 
-Data Science / Developers / Creator
+Software Developer / Machine Learning Engineer / Creator
 -----------------------------------
 
-I am a data scientist and developer with a passion for understanding and crafting stories from the digital world. With mathematics as my faithful tool, I explore the digital galaxy, building intelligent models using machine learning and artificial intelligence to predict and provide deep insights. I am not just a logical developer but also a creative one who combines intuitive design with computational power. I believe that behind every set of data lies an intriguing story. With code as my pen and datasets as my canvas, I am excited to create narratives that enhance the technological experience.
+I am a Software developer and Machine Learning Engineer with a passion for understanding and crafting stories from the digital world. With mathematics as my faithful tool, I explore the digital galaxy, building intelligent models using machine learning and artificial intelligence to predict and provide deep insights. I am not just a logical developer but also a creative one who combines intuitive design with computational power. I believe that behind every set of data lies an intriguing story. With code as my pen and datasets as my canvas, I am excited to create narratives that enhance the technological experience.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyWebPortfolio](http://rikyraharjo.xyz)
