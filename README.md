@@ -70,6 +70,3 @@ I believe that good software is not only about writing code, but also about unde
 
 <a href="https://github.com/rikyraharjo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikyraharjo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rikyraharjo/EyeU-Mobile" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rikyraharjo&repo=EyeU-Mobile&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
