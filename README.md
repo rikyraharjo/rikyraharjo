@@ -3,16 +3,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer / Machine Learning Engineer / Creator
 -----------------------------------
+I am a Software Developer with a strong interest in building reliable, scalable, and user-focused applications. With professional experience in software development, I work primarily with C#, ASP.NET, Angular, TypeScript, and relational databases to develop and maintain web-based applications.
 
-I am a Software developer and Machine Learning Engineer with a passion for understanding and crafting stories from the digital world. With mathematics as my faithful tool, I explore the digital galaxy, building intelligent models using machine learning and artificial intelligence to predict and provide deep insights. I am not just a logical developer but also a creative one who combines intuitive design with computational power. I believe that behind every set of data lies an intriguing story. With code as my pen and datasets as my canvas, I am excited to create narratives that enhance the technological experience.
+Beyond professional development, I also explore modern technologies through personal projects, including Laravel, Flutter, Python, and Machine Learning. I enjoy learning how different technologies work together to transform ideas into practical digital solutions.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyWebPortfolio](http://rikyraharjo.xyz)
-* ✉️  You can contact me at [rikyraharjo112@gmail.com](mailto:rikyraharjo112@gmail.com)
-* 🚀  I'm currently working on [EyeU-"Early detection of eye health in the elderly"](http://github.com/rikyraharjo/EyeU-Mobile)
-* 🧠  I'm learning Pandas, Numpy, Scikit-Learn, Matplotlib & Seaborn, Tensorflow, NLTK, Keras and other
-* 🤝  I'm open to collaborating on Artificial intelligence, and Data Science
-* ⚡  I'm secretly ultraman, titut titut
+I believe that good software is not only about writing code, but also about understanding problems, designing effective solutions, and continuously improving the way technology serves its users. With curiosity as my guide and code as my tool, I am always excited to learn, build, and create meaningful digital experiences.
+
+* 🌍 I'm based in Indonesia
+* 💻 I'm currently working as a Software Developer
+* 🛠️ I work with C#, ASP.NET, Angular, TypeScript, SQL, and web technologies
+* 🚀 I'm also exploring Laravel, Flutter, Python, and Machine Learning
+* 🧠 I'm continuously learning about software development, backend engineering.
+* 🤝 I'm open to collaborating on Software Development, Web Applications, Mobile Applications, and AI projects
+* ⚡ Fun fact: I'm secretly Ultraman — titut titut!
 
 ### Skills
 
